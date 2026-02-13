@@ -1,3 +1,10 @@
+## Gate v0.92 (Technology Preview)
+
+⚠️ This is a binary-only **preview release** for performance testing.  
+- Configuration module not included  
+- Source code not open-sourced  
+- Redistribution or commercial use not permitted  
+- Feedback and benchmarks are welcome
 <img width="640" height="480" alt="gate_vs_nginx_rps" src="https://github.com/user-attachments/assets/8d0094d8-b019-42c4-8526-7559bf119c73" />
 <img width="640" height="480" alt="gate_vs_nginx_p99" src="https://github.com/user-attachments/assets/b2e30010-c3ad-4ae9-b7ee-944f6d44e0a0" />
 # Gate v0.92 极致性能版 Linux ARM64 性能测试报告
